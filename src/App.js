@@ -2,6 +2,7 @@ import './App.css';
 import {BrowserRouter , Routes , Route} from 'react-router-dom'
 import Page1 from './Components/Page1';
 import Page2 from './Components/Page2';
+import 'animate.css';
 
 function App() {
   return (

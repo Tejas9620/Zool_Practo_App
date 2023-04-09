@@ -17,14 +17,14 @@ const Section3 = () => {
 
             <div className="justify-content-evenly px-0 mt-3 text-center row">
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-1" style={{width: "9rem", height: "14rem"}}>
-                    <img className="card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/irregular-painful+period.png" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/irregular-painful+period.png" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Period doubts or Pregnency</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
                     </div>
                 </div>
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-12" style={{width: "9rem", height: "14rem"}}>
-                    <img className=" card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/Acne.png" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s  card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/Acne.png" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Acne,pimple or skin issues</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
@@ -32,28 +32,28 @@ const Section3 = () => {
                     </div>
                 </div>
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-12" style={{width: "9rem", height: "14rem"}}>
-                    <img className=" card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practo.com/consult/static/images/top-speciality-sexology.svg" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s  card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practo.com/consult/static/images/top-speciality-sexology.svg" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Performance issues in bed</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
                     </div>
                 </div>
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-12" style={{width: "9rem", height: "14rem"}}>
-                    <img className=" card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/coughing.png" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s  card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/consult/consult-home/symptoms_icon/coughing.png" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Cold,cough or fever</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
                     </div>
                 </div>
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-12" style={{width: "9rem", height: "14rem"}}>
-                    <img className=" card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practo.com/consult/static/images/top-speciality-pediatric.svg" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s  card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practo.com/consult/static/images/top-speciality-pediatric.svg" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Child not feeling well</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
                     </div>
                 </div>
                 <div className="card border-0 p-0 m-2 col-lg-2 col-md-2 col-sm-12" style={{width: "9rem", height: "14rem"}}>
-                    <img className=" card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/acred/search-assets/2/12-mental-wellness.png" alt="Card image cap" />
+                    <img className="animate__animated animate__rotateIn animate__delay-3s  card-img-top m-auto mt-1 h-50 justify-content-center " style={{width: "7rem"}} src="https://www.practostatic.com/acred/search-assets/2/12-mental-wellness.png" alt="Card image cap" />
                     <div className="card-body">
                         <h6 className="card-title">Depression or anxiety</h6>
                         <p className="card-text text-info">CONSULT NOW</p>
