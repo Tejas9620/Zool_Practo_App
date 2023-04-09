@@ -1,8 +1,0 @@
-.x:hover{
-  transform: scaleZ(1.2);
-  
-}
-
-.x{
-  transition: transform .2s;
-}
